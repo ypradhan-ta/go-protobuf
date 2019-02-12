@@ -8,7 +8,9 @@ To Run:
 go run main.go Person.pb.go 
 
 Resources:
-https://www.youtube.com/watch?v=NoDRq6Twkts \n
-http://google.github.io/proto-lens/installing-protoc.html \n
-https://github.com/golang/protobuf \n
-https://tutorialedge.net/golang/go-protocol-buffer-tutorial/
+<ul>
+  <li>https://www.youtube.com/watch?v=NoDRq6Twkts</li>
+  <li>http://google.github.io/proto-lens/installing-protoc.html </li>
+  <li>https://github.com/golang/protobuf</li>
+  <li>https://tutorialedge.net/golang/go-protocol-buffer-tutorial/</li>
+</ul>
