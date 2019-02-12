@@ -2,10 +2,14 @@
 Protobuf in go
 
 To Compile Proto file:
+```
 protoc --go_out=. *.proto
+```
 
 To Run:
+```
 go run main.go Person.pb.go 
+```
 
 Resources:
 <ul>
